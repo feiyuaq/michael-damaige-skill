@@ -12,6 +12,10 @@
 
 **不止“他好像说过”。而是原文、出处、时间点，一起给你。**
 
+### 跟着大麦哥的更新，让内容库继续生长。
+
+这个技能会持续跟进 Michael大麦哥的视频动态，陆续补充新作品文案、原视频出处与字幕时间点。让你每次带着新的问题回来，都有机会找到新的启发。内容经整理后更新至本仓库；已安装的用户需下载最新版或拉取仓库更新，即可使用新增内容。
+
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Code license](https://img.shields.io/badge/Code-MIT-green)](LICENSE)
 [![Offline](https://img.shields.io/badge/Search-Offline-blue)](#快速开始)
