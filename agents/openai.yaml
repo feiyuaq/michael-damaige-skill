@@ -1,0 +1,6 @@
+interface:
+  display_name: "Michael大麦哥 · 原文有出处"
+  short_description: "检索大麦哥视频字幕，引用相关原文并附视频出处与时间点，让启发可以回到现场"
+  default_prompt: "使用 $michael-damaige 从视频字幕中查找与我问题相关的原文，并提供视频出处和时间点。"
+policy:
+  allow_implicit_invocation: true
